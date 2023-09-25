@@ -1,6 +1,7 @@
 # How to use
 1. To download a folder, install the Refined GitHub extension ([Chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/?utm_source=addons.mozilla.org)) or paste the folder's URL into [DownGit](https://minhaskamal.github.io/DownGit).
    * If the folder's name starts with "!", download its parent folder instead!
+   * If you installed Refined GitHub, first click on the folder in GitHub to open it. Then, click the three dots ("...") in the top-right corner and click "Download directory."
 2. Unzip the folder you downloaded.
    * On Windows: right-click the .zip file, then click "Extract All."
    * On Mac: double-click the .zip file.
