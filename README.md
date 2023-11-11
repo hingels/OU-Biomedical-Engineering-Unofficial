@@ -1,4 +1,7 @@
 # How to use
+To browse and open all Jupyter notebooks (.ipynb files) in this repository, just visit [this Binder link](https://mybinder.org/v2/gh/hingels/OU-Biomedical-Engineering-Unofficial/HEAD)!
+
+For everything else:
 1. To download a folder, install the Refined GitHub extension ([Chrome](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/?utm_source=addons.mozilla.org)) or paste the folder's URL into [DownGit](https://minhaskamal.github.io/DownGit).
    * If the folder's name starts with "!", download its parent folder instead!
    * If you installed Refined GitHub, first click on the folder in GitHub to open it. Then, click the three dots ("...") in the top-right corner and click "Download directory."
