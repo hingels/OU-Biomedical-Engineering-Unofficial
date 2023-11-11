@@ -6,11 +6,14 @@
    * On Windows: right-click the .zip file, then click "Extract All."
    * On Mac: double-click the .zip file.
 3. Move the folder to the place where you keep your code.
-4. For MATLAB code:
+4. For CircuitJS files:
+   1. Go to https://www.falstad.com/circuit/.
+   2. Click "File," then "Open File…" to import the .circuitjs file.
+5. For MATLAB code:
    1. In MATLAB, navigate to the folder in the "Current Folder" pane.
    2. Right-click the folder. (On a Macbook, this is a two-finger click.)
    3. Hover over "Add to Path," then click "Selected Folders and Subfolders."
-5. For Python code:
+6. For Python files:
    1. Open the Anaconda Navigator.
    2. Click the "Environments" tab.
    3. Click "Import" at the bottom of the screen.
@@ -18,9 +21,15 @@
    5. Click "Import."
    6. Click on the new environment to activate it.
    7. Go back to the "Home" tab.
-   8. Under Spyder, click "Install" to install it in the new environment.
-   9. Click "Launch" under Spyder.
-6. For code with explanations about a broad topic, open files **outside** the folders starting with "!." For code with explanations about specific functions, open files **inside** those "!" folders.
+   8. For .py files:
+      1. Under Spyder, click "Install" to install it in the new environment.
+      2. Click "Launch" under Spyder.
+      3. Click "File," then "Open…" to open the .py file.
+   9. For .ipynb files:
+      1. Under JupyterLab, click "Install" to install it in the new environment.
+      2. Click "Launch" under JupyterLab.
+      3. Navigate to the .ipynb file in JupyterLab's file browser to open it.
+7. For code with explanations about a broad topic, open files **outside** the folders starting with "!." For code with explanations about specific functions, open files **inside** those "!" folders.
 
 # Troubleshooting
 * I'm getting the MATLAB error `'[insert function name here]' is not found in the current folder or on the MATLAB path`.
